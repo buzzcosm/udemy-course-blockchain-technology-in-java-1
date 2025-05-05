@@ -53,12 +53,20 @@ Important Classes:
 - 51% Attack: https://bitcoinwiki.org/wiki/51-attack
 - competing chains problems
 - double spending problems
+- orphaned blocks & block verification
+- Mining & Inflation
+- Transaction Fees
+- Blockchain Forks
+  - Soft Fork
+  - Hard Fork
 
 > MINER'S REWARD = X BTC + TRANSACTION FEES
 
 > TRANSACTION INPUT AMOUNT = TRANSACTION OUTPUT AMOUNT + MINER'S REWARD
 
 ### 51% Attack
+
+- [YouTube: Was ist eine 51% Attacke? Einfach erklärt für Anfänger](https://www.youtube.com/watch?v=Dk3TrnU8kJU)
 
 A 51% attack in blockchain refers to an attack where an attacker gains control of more than 50% of the network's hash rate, allowing them to manipulate the blockchain. This control enables them to alter transactions, double-spend funds, and potentially disrupt the entire network.
 
